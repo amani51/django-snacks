@@ -17,7 +17,7 @@
 #### How to initialize/run your application (where applicable)
 
 - `python django_snacks/manage.py runserver` if you inside repo itself
-- or 
+
 - `python manage.py runserver` if you inside django_snacks folder
 
 #### How to use your library (where applicable)
@@ -27,7 +27,6 @@
 
 #### Tests
 - `python django_snacks/manage.py test`
-- or 
 - `python manage.py test`
 #### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/web-scraper/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/django-snacks/pull/1)
